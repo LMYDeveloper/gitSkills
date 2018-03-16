@@ -4,4 +4,5 @@ Study Branch.
 Conflict.
 Merge and Resolve conflicts.
 Get
-Create a branch.
+Create a branchi.
+Some modification.
